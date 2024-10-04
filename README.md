@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manju Bhandari</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align ="right" alt = "coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=360">
 
 - 📫 How to reach me **manjubhandariabc@gmail.com**
 
